@@ -27,9 +27,9 @@
 
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width="340px"> 
+
+<img src="https://octodex.github.com/images/heisencat.png" height="400px" width="340px"> 
  </p>
-
-
  ### Connect with me:
 
 [<img align="left" alt="http://susnata.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
