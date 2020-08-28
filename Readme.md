@@ -1,7 +1,7 @@
 ### Hey there, I'm Susnata - aka [proghead00][website] 👋
 
 [![Website](https://img.shields.io/website?label=susnata.ga&style=for-the-badge&url=https%3A%2F%2Fsusnata.ga)](http://susnata.ga)
-[![Instagram Follow](https://img.shields.io/instagram/follow/susnatoww?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/susnatoww/)
+
 
 ## I'm a second year Computer Science student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
 
@@ -11,7 +11,7 @@
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 ### My Spotify Playlist 🎧
-[<img src="https://now-playing-SusnataGoswami.vercel.app/api/spotify-playing" alt="Susnata Spotify Playing" width="350" />](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+[<i class="fab fa-spotify"></i>](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
 
 ### Connect with me:
 
@@ -42,12 +42,7 @@
 
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://susnata.ga
 [instagram]: https://instagram.com/susnatoww
