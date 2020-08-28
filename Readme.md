@@ -35,7 +35,7 @@
 
 
 ---
-[![Susnata's github stats](https://github-readme-stats.vercel.app/api?username=proghead00)](https://github.com/proghead00/github-readme-stats)
+![Susnata's github stats](https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=radical)
 
 
 
