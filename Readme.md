@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
-
+## 📋[My Resume] (https://drive.google.com/drive/u/1/my-drive)
 ---
 ### Spotify: Now Playing 🎧
 [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
