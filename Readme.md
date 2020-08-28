@@ -10,7 +10,6 @@
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
-![Dafto](https://octodex.github.com/daftpunktocat-thomas/)
 
 
 ### Languages and Tools:
