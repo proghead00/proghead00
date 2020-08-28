@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React.JS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects
+- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 
@@ -28,6 +28,7 @@
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width="340px"> 
  </p>
+
 
  ### Connect with me:
 
