@@ -12,7 +12,7 @@
 
 
 
-### 📋[My Resume](https://drive.google.com/drive/u/1/my-drive)
+### 📋[My Resume](https://drive.google.com/file/d/1qR0wQdnxiGg14fQysTOyeGNsnWSAvb6O/view?usp=sharing)
 
 ---
 ### Spotify: Now Playing 🎧
