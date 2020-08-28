@@ -1,4 +1,4 @@
-## Hey there, I'm Susnata - aka proghead00 👋
+## Hey there, I'm Susnata 👋
 
 [![Website](https://img.shields.io/website?label=susnata.ga&style=for-the-badge&url=https%3A%2F%2Fsusnata.ga)](http://susnata.ga)
 
