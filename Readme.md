@@ -33,9 +33,9 @@
 [<img align="left" alt="Susnata Goswami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px">
-
+<p align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+ </p>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00)](https://github.com/proghead00/github-readme-stats)
 ---
