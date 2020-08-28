@@ -11,10 +11,8 @@
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 
-
-
-
-
+---
+[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
 ### Connect with me:
 
 [<img align="left" alt="http://susnata.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
