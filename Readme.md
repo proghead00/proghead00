@@ -1,4 +1,4 @@
-### Hey there, I'm Susnata - aka [proghead00][website] 👋
+### Hey there, I'm Susnata - aka proghead00 👋
 
 [![Website](https://img.shields.io/website?label=susnata.ga&style=for-the-badge&url=https%3A%2F%2Fsusnata.ga)](http://susnata.ga)
 
@@ -39,7 +39,7 @@
 
 
 ---
-
+[![Susnata's github stats](https://github-readme-stats.vercel.app/api?username=proghead00)](https://github.com/proghead00/github-readme-stats)
 
 
 
