@@ -27,8 +27,9 @@
 <br>
 <br>
 <br>
----
-[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="http://susnata.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
