@@ -12,9 +12,8 @@
 
 
 ---
-<br>
 
-[![Spotify](https:////novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
 
 
 
