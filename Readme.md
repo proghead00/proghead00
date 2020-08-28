@@ -32,6 +32,7 @@
 [<img align="left" alt="Susnata Goswami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
  </p>
