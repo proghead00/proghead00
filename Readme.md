@@ -6,7 +6,7 @@
 ### I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
 
 - 🔭 I’m currently working on React.JS
-- 👯 I’m looking to collaborate with other developers
+- 🧑‍💻 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
