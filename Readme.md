@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=susnata.ga&style=for-the-badge&url=https%3A%2F%2Fsusnata.ga)](http://susnata.ga)
 
 
-### I'm a second year Computer Science Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
+### I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
 
 - 🔭 I’m currently working on React.JS
 - 👯 I’m looking to collaborate with other developers
