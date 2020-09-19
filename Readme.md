@@ -1,6 +1,6 @@
 ## Hey there, I'm Susnata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-[![Website](https://img.shields.io/website?label=susnata.ga&style=for-the-badge&url=https%3A%2F%2Fsusnata.ga)](http://susnata.ga)
+[![Website](https://img.shields.io/website?label=Susnata&style=for-the-badge&url=https%3A%2F%2susnatagoswami.netlify.app)](http://susnatagoswami.netlify.app)
 
 
 ### I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
@@ -12,7 +12,7 @@
 
 
 
-### 📋[My Resume](https://drive.google.com/file/d/1qR0wQdnxiGg14fQysTOyeGNsnWSAvb6O/view?usp=sharing)
+### 📋[My Resume](https://drive.google.com/file/d/1kcCRbX_FiPfye3fFgVkY22ovkR5sbS9m/view?usp=drivesdk)
 
 ---
 ### Spotify: Now Playing 🎧
@@ -35,7 +35,7 @@
 
  ### Connect with me:
 
-[<img align="left" alt="http://susnata.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://susnatagoswami.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Susnata Goswami | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Susnata Goswami| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Susnata Goswami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -53,7 +53,7 @@
 
 
 
-[website]: http://susnata.ga
+[website]: http://susnatagoswami.netlify.app
 [instagram]: https://instagram.com/susnatoww
 [twitter]: https://twitter.com/susnatoww
 
