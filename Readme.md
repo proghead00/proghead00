@@ -12,7 +12,7 @@
 
 
 
-### 📋[My Resume](https://drive.google.com/file/d/1kcCRbX_FiPfye3fFgVkY22ovkR5sbS9m/view?usp=drivesdk)
+### 📋 [My Resume](https://drive.google.com/file/d/1kcCRbX_FiPfye3fFgVkY22ovkR5sbS9m/view?usp=drivesdk) 📋
 
 ---
 ### Spotify: Now Playing 🎧
@@ -41,7 +41,7 @@
 [<img align="left" alt="Susnata Goswami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
   
-### 🔔[My Codepen Profile]( https://codepen.io/susnatoww)
+### 🔔 [My Codepen Profile]( https://codepen.io/susnatoww) 🔔
 <br>
 
 <br>
