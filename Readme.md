@@ -4,6 +4,7 @@
 
 
 ### I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!
+### (☞ﾟヮﾟ)☞ Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ☜(ﾟヮﾟ☜)
 
 - 🔭 I’m currently working on React.JS
 - 🚀 I’m looking to collaborate with other developers
@@ -12,7 +13,7 @@
 
 
 
-### 📋 [My Resume](https://drive.google.com/file/d/1vXCoYAEgOyxjz_s2Nb73oUYKUA8aXACu/view) 📋
+### 📋 [My Resume](https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing) 📋
 
 ---
 ### Spotify: Now Playing 🎧
