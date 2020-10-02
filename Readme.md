@@ -68,7 +68,7 @@
 
 <br/>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="right" /> </div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="left" /> </div>
 
 
 ---
