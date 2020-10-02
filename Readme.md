@@ -63,6 +63,14 @@
 <br/>  
 
 
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="left" /></div>  
+
+<br/>  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="right" /> </div>
+
+
 ---
 ### Spotify: Now Playing 🎧
 [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
@@ -114,14 +122,6 @@
 
 
 
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
 
 
 
