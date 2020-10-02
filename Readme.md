@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-<a href="https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" ></a>
+<a href="https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" target="_blank"></a>
 </div>
 <br />
 
