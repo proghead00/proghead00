@@ -72,8 +72,14 @@
 
 
 ---
-### Spotify: Now Playing 🎧
-[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br>[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
+
+  </td>
+
 
 ### 🎶 [My Spotify Playlist](https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ)  🎶
 
