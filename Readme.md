@@ -13,6 +13,9 @@
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 
+<br/>  
+
+
 
 # 📋 [My Resume](https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing) 📋
 
@@ -120,6 +123,7 @@
 
 
 
+ 
 
 
 
