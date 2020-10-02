@@ -70,6 +70,7 @@
 <h1> <b>Github Stats 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
 </div>
+<br />
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
@@ -96,7 +97,7 @@
 <br>
 
 <div align="center">
- <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px">My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
 <a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
 <img src="/images.jpg" >
 </a>
