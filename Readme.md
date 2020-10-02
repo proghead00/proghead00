@@ -9,7 +9,7 @@
 
 <h2> <b> I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!  </h2> </b>
 <br>
-(☞ﾟヮﾟ)☞ Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ☜(ﾟヮﾟ☜)
+<h2>(☞ﾟヮﾟ)☞  <b>Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/)</b> ☜(ﾟヮﾟ☜)</h2>
 
 - 🔭 I’m currently working on React.JS
 - 🚀 I’m looking to collaborate with other developers
