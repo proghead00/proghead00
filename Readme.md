@@ -107,23 +107,15 @@
 
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
 <br>
 
 
-<p align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width="340px"> 
 
-<img src="https://octodex.github.com/images/heisencat.png" height="400px" width="340px"> 
- </p>
- 
  
  
 
 ## Connect with me  
-
+<div align="center">
   
 <a href="https://twitter.com/susnatoww" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
