@@ -63,7 +63,8 @@
 <br/>  
 
 
-## Github Stats  
+<h1> <b>Github Stats </b> </h1>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif width="30px" height="35px">
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
 
 <br/>  
