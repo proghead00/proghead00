@@ -13,16 +13,24 @@
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 
-<br/>  
-
+---
 <div align="center">
 <a href="https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing"> <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" ></a>
 </div>
 <br />
 
-## ⭕ My Skill Set  ⭕
+---
+ <div align="center">
+ <h1> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
+ <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
+  <div>
+  <br />
+
 <table><tr><td valign="top" width="33%">
  
+ 
+
+   ---
 ### Frontend/ Tools
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
