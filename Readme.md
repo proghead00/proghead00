@@ -70,9 +70,6 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
 
-
----
-
  <table width="100%"> 
   <tr>
   <td width="50%">
@@ -92,10 +89,6 @@
 </div>
   </td>
   </table>
-  
-  
-
----
 
 
 
