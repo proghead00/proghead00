@@ -48,7 +48,7 @@
 </div></td><td valign="top" width="33%">
 
 <div align="center">
- <h2> <b> Frontend/Tools </b> </h2>
+ <h2> <b>Backend</b> </h2>
  </div>
 <div align="center">  
 <div align="center">  
@@ -63,7 +63,7 @@
 </div></td><td valign="top" width="33%">
 
 <div align="center">
- <h2> <b> Frontend/Tools </b> </h2>
+ <h2> <b> DevOps </b> </h2>
  </div>
 <div align="center">  
 <div align="center">  
