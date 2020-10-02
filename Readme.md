@@ -67,6 +67,9 @@
 ### 🎶 [My Spotify Playlist](https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ)  🎶
 
 ---
+
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
@@ -110,8 +113,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00)](https://github.com/proghead00/github-readme-stats)
 
-![Susnata's github stats](https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=dracula)
 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+ 
 
 
 
