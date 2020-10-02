@@ -24,11 +24,14 @@
  <div align="center">
  <h1> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
  <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
+  
   <div>
 
 <table><tr><td valign="top" width="33%">
  
-### Frontend/ Tools
+<div align="center">
+ <h2> <b> Frontend/Tools </b> </h2>
+ </div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
