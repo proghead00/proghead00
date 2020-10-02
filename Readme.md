@@ -24,13 +24,9 @@
  <h1> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
  <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
   <div>
-  <br />
 
 <table><tr><td valign="top" width="33%">
  
- 
-
-   ---
 ### Frontend/ Tools
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -79,12 +75,19 @@
 
 <br/>  
 
+
+
+<div align="center">
+
+<h1> <b> My Spotify Updates 
+  <img src="https://media.giphy.com/media/jqYYj7yL47yyWpBO3P/giphy.gif" width="50px" height="50px"> </b> </h1>
+ </div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
 
  <table width="100%"> 
   <tr>
   <td width="50%">
-      
+
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/21kwh562lf32fbf4b663xkfbq)
 
   </td>
@@ -93,7 +96,7 @@
 <br>
 
 <div align="center">
- <h3> <b> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> </img></b> </h3>
+ <h3> <b> <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px">My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"></b> </h3>
 <a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
 <img src="/images.jpg" >
 </a>
