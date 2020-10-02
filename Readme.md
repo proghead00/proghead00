@@ -72,7 +72,7 @@
 </div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
 <br/>  
 
 
@@ -82,7 +82,7 @@
 <h1> <b> My Spotify Updates 
   <img src="https://media.giphy.com/media/jqYYj7yL47yyWpBO3P/giphy.gif" width="50px" height="50px"> </b> </h1>
  </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00" align="center" /> </div>
+
 
  <table width="100%"> 
   <tr>
