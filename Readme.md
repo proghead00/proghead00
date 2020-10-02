@@ -82,9 +82,11 @@
   </td>
   <td width="50%">
 
-<br><p align="center">
+<br>
 
-##  🎶 [My Spotify Playlist](https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ)  🎶
+<a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
+<img src="/images.jpg" style="align:center">
+</a>
 </p>
   </td>
   </table>
