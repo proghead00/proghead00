@@ -14,7 +14,8 @@
 
 
 
-### 📋 [My Resume](https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing) 📋
+# 📋 [My Resume](https://drive.google.com/file/d/1yjVkJy7Ac5OdQ7HkYOkwAlGA8PTPiLk1/view?usp=sharing) 📋
+
 
 ## ⭕ My Skill Set  ⭕
 <table><tr><td valign="top" width="33%">
@@ -105,23 +106,19 @@
 </a>  
 </div>  
  
- 
+
 
 <br>
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00)](https://github.com/proghead00/github-readme-stats)
 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app
-/api?username=proghead00&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
- 
- ![Susnata's github stats](https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true)
+
 
 
 
