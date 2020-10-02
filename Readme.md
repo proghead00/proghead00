@@ -84,10 +84,12 @@
 
 <br>
 
+<div align="center">
+ <h3> <b> My Spotify Playlist 👇 </b> </h3>
 <a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
-<img src="/images.jpg" style="align:center">
+<img src="/images.jpg" >
 </a>
-</p>
+</div>
   </td>
   </table>
   
