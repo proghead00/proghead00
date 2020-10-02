@@ -24,10 +24,9 @@
  <div align="center">
  <h1> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
  <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
-  
   <div>
-
-<table><tr><td valign="top" width="33%">
+<table><tr>
+ <td valign="top" width="33%">
  
 <div align="center">
  <h2> <b> Frontend/Tools </b> </h2>
