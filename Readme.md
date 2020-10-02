@@ -2,14 +2,11 @@
 
 # Hey there, I'm Susnata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://susnatagoswami.netlify.app/)
-
-
 
 ## I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills!  
 
-## (☞ﾟヮﾟ)☞  Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ☜(ﾟヮﾟ☜)
+## ▶ Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ◀
 
 - 🔭 I’m currently working on React.JS
 - 🚀 I’m looking to collaborate with other developers
