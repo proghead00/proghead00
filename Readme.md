@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
- <h3> <b> My Spotify Playlist 👇 </b> </h3>
+ <h3> <b> My Spotify Playlist <img src="https://media.giphy.com/media/G4iV49Rz2iDNlxJwfx/giphy.gif" height="25px" width="25px"> </img></b> </h3>
 <a href="https://open.spotify.com/playlist/1EtpOzSuCXq0m15xZfWAie?si=2d6KNu5hTmu4YZejjWrKCQ">
 <img src="/images.jpg" >
 </a>
