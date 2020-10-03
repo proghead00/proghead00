@@ -80,9 +80,11 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
 </div>
 <br />
+<div align="center">
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/username=proghead00&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" /> </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=chartreuse-dark)](https://github.com/proghead00/github-readme-stats) 
+ </div>
 <br/>  
 
 <hr>
