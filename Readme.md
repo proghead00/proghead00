@@ -81,7 +81,7 @@
 </div>
 <br />
 <div align="center">
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"&custom_title align="center" /></div>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=chartreuse-dark)](https://github.com/proghead00/github-readme-stats) 
  </div>
