@@ -81,9 +81,10 @@
 </div>
 <br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" /> </div>
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=dracula&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/username=proghead00&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" /> </div>
 <br/>  
+
 <hr>
 
 
