@@ -81,7 +81,7 @@
 </div>
 <br />
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" align="center" />
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
 
 
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00)
