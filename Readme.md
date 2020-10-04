@@ -84,6 +84,7 @@
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" align="center" /></div>  
 
 
+</div>
 
 [![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&show_owner=true&theme=dracula)](https://github.com/proghead00/Aiden-AI-News-App)
 
@@ -95,7 +96,6 @@
   [![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=COVID-19-Tracker-With-React&show_owner=true&theme=dracula)](https://github.com/proghead00/COVID-19-Tracker-With-React) 
  
 
-</div>
 <br/>  
 
 <hr>
