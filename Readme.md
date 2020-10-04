@@ -86,8 +86,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=chartreuse-dark)](https://github.com/proghead00/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&show_owner=true&theme=dracula)](https://github.com/proghead00/github-readme-stats)
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=Spotify-Clone-Front-end&show_owner=true&theme=dracula)](https://github.com/proghead00/github-readme-stats) </div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&show_owner=true&theme=dracula)](https://github.com/proghead00/Aiden-AI-News-App)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=Spotify-Clone-Front-end&show_owner=true&theme=dracula)](https://github.com/proghead00/Spotify-Clone-Front-end) </div>
 <br/>  
 
 <hr>
