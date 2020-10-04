@@ -84,7 +84,7 @@
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" align="center" /></div>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=chartreuse-dark)](https://github.com/proghead00/github-readme-stats) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=github-readme-stats&show_owner=true)](https://github.com/proghead00/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&show_owner=true&theme=dracula)](https://github.com/proghead00/github-readme-stats)
  </div>
 <br/>  
 
