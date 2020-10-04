@@ -8,7 +8,7 @@
 
 ## ▶ Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ◀
 
-- 🔭 I’m currently working on React.JS
+- 🔭 I’m currently working on ReactJS
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
@@ -75,10 +75,13 @@
 
 <br/>  
 
-<div align="center">
+
+
+
+
 <h1> <b>Github Stats 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
-</div>
+
 <br />
 
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
