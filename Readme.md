@@ -65,7 +65,7 @@
  <h2> <b> DevOps </b> </h2>
  </div>
 <div align="center">  
-<div align="center">  
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -81,7 +81,7 @@
 
 <h1> <b>Github Stats 
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
-</div>
+
 <br />
 
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
