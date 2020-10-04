@@ -85,12 +85,16 @@
 <br />
 
 
-<a href="https://gitstats.me/proghead00">
-  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
-</a>
-<a href="https://github.com/anuraghazra/Aiden-AI-News-App">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App" />
-</a>
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
+
+
+[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00)
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+
+
 
 
 
