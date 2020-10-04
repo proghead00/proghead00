@@ -84,21 +84,18 @@
 
 <br />
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
+
+<a href="https://gitstats.me/proghead00">
+  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/anuraghazra/Aiden-AI-News-App">
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App" />
+</a>
 
 
-[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00)
 
 
 
-  
-
-<br/>  
-
-
-[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&show_owner=true&theme=react )](https://github.com/proghead00/Aiden-AI-News-App)
-
- [![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Amazon-Rebuild-Full-E-Commerce&show_owner=true&theme=react )](https://github.com/proghead00/Amazon-Rebuild-Full-E-Commerce) 
   <hr>
 
 
