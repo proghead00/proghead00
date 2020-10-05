@@ -144,24 +144,24 @@
   <a href="https://www.linkedin.com/in/susnatoww/">
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-  
+  <br />
   <a href="https://www.facebook.com/susnata01" target="_blank">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-  <a href="https://codepen.com/susnatoww" target="_blank">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
-                                                                                             
+<a href="https://instagram.com/susnatoww" target="_blank">
+  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>                                                                                    
   <a href="https://dev.to/proghead00" target="_blank">
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
  
  
-<a href="https://instagram.com/susnatoww" target="_blank">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
+
+  <a href="https://codepen.com/susnatoww" target="_blank">
+  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
 </div> 
 
 
