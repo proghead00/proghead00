@@ -155,11 +155,14 @@
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
  
+   <a href="https://codepen.com/susnatoww" target="_blank" style="text-decoration:none;">
+  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+</a>
  
 
 
-  <a href="https://codepen.com/susnatoww" target="_blank" style="text-decoration:none;">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <a href="https://medium.com/@proghead00" target="_blank">
+  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 </div> 
 
