@@ -141,7 +141,7 @@
 ## Connect with me  
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/susnatoww/ target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/susnatoww/" target="_blank" style="text-decoration:none;">
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
   <a href="https://www.facebook.com/susnata01" target="_blank" style="text-decoration:none;">
