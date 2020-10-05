@@ -91,10 +91,10 @@
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)-->
+<img src="https://wakatime.com/share/@proghead00/207c7490-25cb-46b0-bc57-b24adec70c7c.svg" height="500">
 
-
-<img src="https://wakatime.com/share/@proghead00/efc15288-7ea2-47e3-8c4f-baa733312863.svg" height="400">
+<!--<img src="https://wakatime.com/share/@proghead00/efc15288-7ea2-47e3-8c4f-baa733312863.svg" height="400">-->
 
 
 
