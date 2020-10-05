@@ -94,7 +94,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
 
 
-
+<img src="https://wakatime.com/share/@proghead00/fe96f59a-5208-437a-a08f-d25e3a86c910.svg" height="400">
 
 
 
