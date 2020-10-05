@@ -144,7 +144,6 @@
   <a href="https://www.linkedin.com/in/susnatoww/">
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-  <br />
   <a href="https://www.facebook.com/susnata01" target="_blank">
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
