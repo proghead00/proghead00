@@ -142,7 +142,7 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/susnatoww/">
-  <img align="center" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
   
   <a href="https://www.facebook.com/susnata01" target="_blank">
@@ -153,7 +153,7 @@
   <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
                                                                                              
-  <a href="https://twitter.com/susnatoww" target="_blank">
+  <a href="https://dev.to/proghead00" target="_blank">
   <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
  
