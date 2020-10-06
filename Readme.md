@@ -92,8 +92,9 @@
 
 <br >
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)-->
-<img src="https://wakatime.com/share/@proghead00/207c7490-25cb-46b0-bc57-b24adec70c7c.svg" height="500">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+
+<!--<img src="https://wakatime.com/share/@proghead00/207c7490-25cb-46b0-bc57-b24adec70c7c.svg" height="500">-->
 
 <!--<img src="https://wakatime.com/share/@proghead00/efc15288-7ea2-47e3-8c4f-baa733312863.svg" height="400">-->
 
