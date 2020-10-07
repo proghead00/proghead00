@@ -8,7 +8,7 @@
 
 ## ▶ Currently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ◀
 
-- 🔭 I’m currently working on different JavaScript librarires and frameworks
+- 🔭 I’m currently working on different JavaScript libraries and frameworks
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
