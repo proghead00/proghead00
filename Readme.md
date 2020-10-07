@@ -91,12 +91,15 @@
 [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00)
 
 <br >
-<strong> Wakatime Coding Stats </strong>
-<br>
-<img align="left" src="https://wakatime.com/share/@proghead00/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
-<img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)-->
 
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+
+
+
+<!--<img align="left" src="https://wakatime.com/share/@proghead00/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
+<img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
 
 
 
