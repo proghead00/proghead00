@@ -95,15 +95,15 @@
 
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 
-<!--NEW top langs-->
+<!--NEW top lang
 <a href="https://github.com/proghead00/proghead00">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<!--NEW-->
-
-<!--<a href="https://gitstats.me/proghead00">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>-->
+
+
+<a href="https://gitstats.me/proghead00">
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
+</a>
 
 
 
