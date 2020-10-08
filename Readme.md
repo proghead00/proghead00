@@ -101,17 +101,17 @@
 </a>-->
 
 
-<a href="https://gitstats.me/proghead00">
+<!--<a href="https://gitstats.me/proghead00">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
 </a>
-
+-->
 
 
 
 
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) -->
+ [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) 
 
 <br >
 
