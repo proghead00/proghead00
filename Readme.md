@@ -133,10 +133,10 @@
 
 
 <a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true " />
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react" />
 </a>
 <a href="https://github.com/proghead00/Aiden-AI-News-App">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react&show_owner=true" />
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react" />
 </a>
 
 
