@@ -121,6 +121,12 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
 
 
+[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Ultimate-JS-Projects-Collection)
+
+[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Aiden-AI-News-App)
+
+
+
 
 <!--<img align="left" src="https://wakatime.com/share/@proghead00/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
 <img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
