@@ -114,7 +114,6 @@
 
  [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) 
 
-<br >
 
 
 
