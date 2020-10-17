@@ -83,7 +83,7 @@
 
 
 
-<h1> <b>Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
+<h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
  
 
 
