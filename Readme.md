@@ -6,7 +6,7 @@
 
 ## I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectra of skills.  
 
-## ▶ Presently, I am a web development intern at [Promenant Innovation Labs](https://promenant.com/) ◀
+
 
 - 🔭 I’m currently working on different JavaScript libraries and frameworks
 - 🚀 I’m looking to collaborate with other developers
@@ -21,6 +21,15 @@
 <br />
 
 ---
+
+## My Internship Experiences
+| Company        | Postion          | Website
+| :------------- | :----------: | :----------: 
+| Promenant Innovation Labs | Web Development Internship  | https://www.promenant.com/
+
+---
+
+
  <div align="center">
  <h1> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> My Skill Set
  <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> </b> </h1>
