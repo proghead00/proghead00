@@ -23,10 +23,9 @@
 ---
 
 ## My Internship Experiences
-| Company        | Postion          | Website
+| Company        | Postion          | Duration
 | :------------- | :----------: | :----------: 
-| Promenant Innovation Labs | Web Development Internship  | https://www.promenant.com/
-
+| Promenant Innovation Labs | Web Development Internship  | September-October 2020
 ---
 
 
