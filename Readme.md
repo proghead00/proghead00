@@ -1,4 +1,4 @@
-<img src="github header.jpg">
+<img src="githubgif.gif">
 
 
 
