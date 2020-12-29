@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on different JavaScript libraries and frameworks
+- 🔭 I’m currently learning Data Structures and Docker
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
@@ -125,7 +125,7 @@
 
 
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
 
 
 <!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Ultimate-JS-Projects-Collection)-->
