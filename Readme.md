@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently learning Data Structures  
+- 🔭 I’m currently learning Data Structures and Algorithms
 - 🚀 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn DSA, web development, contribute to Open Source projects and survive this pandemic!
 - ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
