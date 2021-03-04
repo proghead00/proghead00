@@ -189,34 +189,14 @@
  
 
 ## Connect with me  
-<div align="center">
-
-  <a href="https://twitter.com/susnatoww" target="_blank" >
-  <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
-  <a href="https://www.linkedin.com/in/susnatoww/" target="_blank" >
-  <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-  <a href="https://www.facebook.com/susnata01" target="_blank">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://instagram.com/susnatoww" target="_blank" >
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>                                                                                    
-  <a href="https://dev.to/proghead00" target="_blank" >
-  <img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
- 
-   <a href="https://codepen.com/susnatoww" target="_blank" style="text-decoration:none;">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
- 
+<p align="center" backgroud="./images/mid.png">
+	<a href="https://github.com/proghead00" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/susnatoww/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/susnata01/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/susnatoww" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/susnatoww" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
 
-  <a href="https://medium.com/@proghead00" target="_blank">
-  <img  width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-</div> 
 
 
