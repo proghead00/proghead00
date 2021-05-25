@@ -50,6 +50,7 @@
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div></td><td valign="top" width="33%">
@@ -64,7 +65,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div></td><td valign="top" width="33%">
@@ -76,7 +77,7 @@
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   -->
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
