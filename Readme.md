@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://susnatagoswami.netlify.app/)
 
-## I'm a second year Computer Science and Engineering student at UEM, Kolkata, and I try to get my hand at a wide spectrum of skills.  
+## I just stepped into the third year of Bachelor of Technology in Computer Science and Engineering, from UEM, Kolkata.
 
 
 
