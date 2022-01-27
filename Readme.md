@@ -142,13 +142,18 @@
 <img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
 
 
+<a href="https://github.com/proghead00/coursefry">
+  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=coursefry&theme=react" />
+</a>
+
+	  
 <a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react" />
 </a>
-<a href="https://github.com/proghead00/Aiden-AI-News-App">
+<!-- <a href="https://github.com/proghead00/Aiden-AI-News-App">
   <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react" />
 </a>
-
+ -->
 
 
   <hr>
