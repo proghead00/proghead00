@@ -143,7 +143,7 @@
 
 
 <a href="https://github.com/proghead00/coursefry">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=coursefry&theme=react" />
+  <img align="center" height="148" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=coursefry&theme=react" />
 </a>
 
 	  
