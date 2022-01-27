@@ -10,8 +10,9 @@
 
 - 🔭 I’m currently learning Data Structures and Algorithms/ Core Computer Science 
 - 🚀 Languages I work/ have worked with: C++, C, JavaScript, Python, Java
-<!-- - 🥅 2021 Goals: Get deep into DSA, web development, start out competitive programming, contribute to Open Source projects and survive this pandemic! -->
 - ⚡Facts about me: I listen to alternative and progressive rock; I binge-watch anime and movies, series, and sometimes even read comics!
+<!-- - 🥅 2021 Goals: Get deep into DSA, web development, start out competitive programming, contribute to Open Source projects and survive this pandemic! -->
+
 
 
 ---
