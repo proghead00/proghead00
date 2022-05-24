@@ -20,7 +20,7 @@
 
 <!--[![Resume](https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif)](https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing)-->
 <a href=" https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">
- <img width="460px" height="460px" src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" />
+ <img  height="460px" src="r.png" />
 </a>
 
 
