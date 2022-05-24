@@ -18,12 +18,12 @@
 ---
 <div align="center">
 
-[![Resume](r.png)](https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing)
+<!--[![Resume](r.png)](https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing)-->
 
-<!--<a href=" https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing" target="_blank">
  <img  height="460px" src="r.png" />
 </a>
--->
+
 
 <!--<a href="https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">-->
 	
