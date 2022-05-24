@@ -18,11 +18,12 @@
 ---
 <div align="center">
 
-<!--[![Resume](https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif)](https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing)-->
-<a href=" https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">
+[![Resume](r.png)](https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing)
+
+<!--<a href=" https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">
  <img  height="460px" src="r.png" />
 </a>
-
+-->
 
 <!--<a href="https://drive.google.com/file/d/1_N6VctxEoEGXP-LBNokAbFJ1JrIoUaoD/view?usp=sharing">-->
 	
