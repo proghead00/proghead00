@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsusnatagoswami.netlify.app/)](https://susnatagoswami.netlify.app/)
 
-## Software Engineer. And I don't keep this profile updated anymore kek.
 
 
 
