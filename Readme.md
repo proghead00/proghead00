@@ -34,11 +34,13 @@
 
 ---
 
+<!--
 ## My Internship Experiences
 | Company        | Postion          | Duration
 | :------------- | :----------: | :----------: 
 | Promenant Innovation Labs | Web Developer Intern  | September-October 2020
 ---
+-->
 
 
  <div align="center">
